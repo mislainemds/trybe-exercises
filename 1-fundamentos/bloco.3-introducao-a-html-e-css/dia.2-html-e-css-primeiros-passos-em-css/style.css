@@ -1,0 +1,18 @@
+h1 {
+    font-family: sans-serif; color: orange; font-size: 65px;  
+}
+p { font-size: 3em;
+    font-weight: 600;
+}
+body {
+    font-size: 16px;
+}
+.list {
+    background-color: rgb(238, 255, 0); 
+}
+.item2 {
+    background-color: red;
+}
+.item3 {
+    background-color: rgb(150, 75, 0);
+}

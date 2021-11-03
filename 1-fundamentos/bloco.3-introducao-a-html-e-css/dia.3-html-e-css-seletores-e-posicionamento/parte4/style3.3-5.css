@@ -1,0 +1,26 @@
+#ord {
+    background-color: yellow;
+}
+ol li:nth-child(even) {
+    color: green;
+}
+ol li:nth-child(odd) {
+    text-transform: uppercase;
+}
+.header {
+    color: red;
+}
+.itali {
+    font-size: 40px;
+    border: solid 1px black;
+} 
+li {
+    font-size: 20px; 
+}
+li em {
+    font-weight: bold;
+}
+a:hover {
+    display: block;
+    font-weight: bold;
+}
